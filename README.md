@@ -10,27 +10,33 @@ For each year and for each type of PM source, the NEI records how many tons of P
 Goal The overall goal is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999-2008.
 
 Questions
-    Have total emissions from PM_{2.5} decreased in the United States from 1999 to 2008?
-    Yes.
-    [[./plot1.png]]
 
-    Have total emissions from PM_{2.5} decreased in the Baltimore City, Maryland from 1999 to 2008?
-     Yes.
-    [[./plot1.png]]
+1. Have total emissions from PM_{2.5} decreased in the United States from 1999 to 2008?
+   
+   Yes.
+   [[./plot1.png]]
+
+2. Have total emissions from PM_{2.5} decreased in the Baltimore City, Maryland from 1999 to 2008?
+   
+   Yes.
+   [[./plot2.png]]
+
+3. Of the four types of sources indicated by the =type= (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999-2008 for Baltimore City? Which have seen increases in emissions from 1999-2008?
+   
+   Non-road, Non-point, and on-road have decreased. Point has increased
+   [[./plot3.png]]
+
+4. Across the United States, how have emissions from coal combustion-related sources changed from 1999-2008?
     
-    Of the four types of sources indicated by the =type= (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999-2008 for Baltimore City? Which have seen increases in emissions from 1999-2008?
-    Non-road, Non-point, and on-road have decreased. Point has increased
-    [[./plot3.png]]
+   They have decreased.
+   [[./plot4.png]]
 
-    Across the United States, how have emissions from coal combustion-related sources changed from 1999-2008?
-    They have decreased.
-    [[./plot4.png]]
+5. How have emissions from motor vehicle sources changed from 1999-2008 in Baltimore City?
+   
+   Emissions have decreased.
+   [[./plot5.png]]
 
-    How have emissions from motor vehicle sources changed from 1999-2008 in Baltimore City?
-    Emissions have decreased.
-    [[./plot5.png]]
-
-    Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California. Which city has seen greater changes over time in motor vehicle emissions?
-    While emissions in Baltimore, MD have decreased over time, the magnitude of this decrease is smaller than the increase of emissions in Los Angeles Country, CA, over the same period.
-    [[./plot6.png]]
-
+6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California. Which city has seen greater changes over time in motor vehicle emissions?
+   
+   While emissions in Baltimore, MD have decreased over time, the magnitude of this decrease is smaller than the increase of emissions in Los Angeles Country, CA, over the same period.
+   [[./plot6.png]]
